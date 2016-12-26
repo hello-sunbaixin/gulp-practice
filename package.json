@@ -1,0 +1,41 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-css-spriter": "^0.3.3",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.2",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.1.1",
+    "gulp-sftp": "^0.1.5",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-zip": "^3.2.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "mkdirp": "^0.5.1",
+    "opn": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-cross-spriter": "^1.2.2",
+    "gulp-css-spritesmith": "0.0.5",
+    "gulp-sass": "^2.3.2",
+    "gulp-spritesmith": "0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
